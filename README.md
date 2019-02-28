@@ -2,7 +2,7 @@
 
 A new Animation Flutter project.
 
-![circulargif](https://user-images.githubusercontent.com/41188075/53576725-5e068a00-3b9a-11e9-8b76-632181d2f1db.gif)
+<image src="https://user-images.githubusercontent.com/41188075/53576725-5e068a00-3b9a-11e9-8b76-632181d2f1db.gif" width="33%">
 
 
 ## Getting Started
